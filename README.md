@@ -16,13 +16,7 @@
 
 **安装方法:**
 
-登录heroku账号,后点击下面的按钮;若浏览器中已登录heroku则直接点击
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-
-
-安装教程：[搜图机器人](http://weinb.top/index.php/archives/93/)
 
 docker版
 
